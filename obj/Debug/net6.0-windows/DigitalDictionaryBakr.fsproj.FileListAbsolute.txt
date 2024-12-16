@@ -1,0 +1,4 @@
+C:\Users\PC\DigitalDictionaryBakr\obj\Debug\net6.0-windows\DigitalDictionaryBakr.fsproj.AssemblyReference.cache
+C:\Users\PC\DigitalDictionaryBakr\obj\Debug\net6.0-windows\DigitalDictionaryBakr.AssemblyInfoInputs.cache
+C:\Users\PC\DigitalDictionaryBakr\obj\Debug\net6.0-windows\DigitalDictionaryBakr.AssemblyInfo.fs
+C:\Users\PC\DigitalDictionaryBakr\obj\Debug\net6.0-windows\DigitalDictionaryBakr.fsproj.CoreCompileInputs.cache
